@@ -1,6 +1,6 @@
 # Desafios Typescript
 Desafios do Typescript
-Resolução dos 3 desafios propostos pelo professor João Santos após a aula de Introdução Prática ao Typescript.
+Resolução dos 3 desafios propostos pelo professor João Lira, após a aula de Introdução Prática ao Typescript.
 
 - Desafio 1:
 Dado o código, o objetivo era fazê-lo rodar em um arquivo .ts sem causar erros.
